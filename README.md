@@ -3,9 +3,11 @@
 
 -----
 
-Let's see how to use short status
+## HOW TO USE GIT.
 
-git status --short
-git status -s
-
-
+--BASIC COMMANDS LIST:
+-add((Move changes to staged area))
+-commit((Move the changes from staged area to local-data-base))
+-status((Track & Untrack files))
+-checkout((branching))
+-push((Send changes to remote repository))
